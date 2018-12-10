@@ -1,0 +1,165 @@
+<resources>
+    <string name="app_name">GoTravelista</string>
+    <string name="category_sights">Sights</string>
+    <string name="category_info">Info</string>
+    <string name="category_shops">Shops</string>
+    <string name="category_food">Food</string>
+    <string name="food_genki_name">Genki Sushi</string>
+    <string name="food_genki_description">Sushi restaurant. Choose the food on the screen in your
+        table and recieve your order via conveyor belt.</string>
+    <string name="food_genki_address">24-8 Udagawacho, Shibuya, Tokyo 150-0042</string>
+    <string name="food_genki_phone">+81 3-3461-1281</string>
+    <string name="food_genki_schedule">Mo-Fr 11:00–24:00. Sa-Su 10:30-24:00</string>
+    <string name="food_price_two">$$</string>
+    <string name="food_wako_name">Tonkatsu Wako</string>
+    <string name="food_wako_description">Restaurant specialised in Tonkatsu, fried pork cutlet.</string>
+    <string name="food_wako_address">AQUA CiTY ODAIBA, 1 Chome-7-1 Daiba, Minatoku Tokyo 135-0091</string>
+    <string name="food_wako_phone">+81 3-3599-5144</string>
+    <string name="food_wako_schedule">\"Mo-Su 11:00–22:00</string>
+    <string name="food_rokumonya_name">Rokumonya</string>
+    <string name="food_rokumonya_description">Restaurant specialised in Okonomiyaki, a Japanese
+        savoury pancake containing a variety of ingredients.</string>
+    <string name="food_rokumonya_address">3 Chome−35, Shinjuku, Tokyo 160-0022</string>
+    <string name="food_rokumonya_phone">+81 3-3356-6824</string>
+    <string name="food_rokumonya_schedule">Mo-Su 11:30–23:30</string>
+    <string name="food_price_four">$$$$</string>
+    <string name="food_kisoji_name">Kisoji</string>
+    <string name="food_kisoji_description">Restaurant specialised in sukiyaki and shabu shabu.</string>
+    <string name="food_kisoji_address">3-17-5 New Fuji Building, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_kisoji_phone">+81 3-3226-0667</string>
+    <string name="food_kisoji_schedule">Mo-Su 11:30–14:30 and 17:30-21:30</string>
+    <string name="food_price_one">$</string>
+    <string name="food_gogo_name">Gogo curry</string>
+    <string name="food_gogo_description">Restaurant specialised in Japanese curry with
+        fried meat on top.</string>
+    <string name="food_gogo_address">1 Chome−161, Kanda Sakumacho, Chiyoda, Tokyo, 101-0025</string>
+    <string name="food_gogo_phone">+81 3-5256-5525</string>
+    <string name="food_gogo_schedule">Mo-Su 10:00–22:00</string>
+    <string name="food_tenya_name">Tenya</string>
+    <string name="food_tenya_description">Restaurant specialised in Tendon, a bowl of rice with
+        tempura fried food on top.</string>
+    <string name="food_tenya_address">3 Chome−3−31−2, Shinjuku, Tokyo, 160-0022</string>
+    <string name="food_tenya_phone">+81 3-5269-7216</string>
+    <string name="food_tenya_schedule">Mo-Su 11:00–22:00</string>
+    <string name="food_shibukatsu_name">Shitukatsu</string>
+    <string name="food_shibukatsu_description">Tonkatsu place run by Agetarou\'s family. Agetarou is also known as Tonkatsu DJ.</string>
+    <string name="food_shibukatsu_address">21−6, Udagawacho, Shibuya, Tokyo, 150-0042</string>
+    <string name="food_shibukatsu_phone">+81 3-0000-0000</string>
+    <string name="food_shibukatsu_schedule">Mo-Su 11:00–22:00</string>
+    <string name="info_internet_name">Internet</string>
+    <string name="info_internet_description">Rent a pocket WIFI to have internet access everywhere.
+        It is very convenient when travelling since most of the hotels have limited internet access.
+        It works even in the subway!</string>
+    <string name="info_konbini_name">Convenience stores</string>
+    <string name="info_konbini_description">Did you forget your toothbrush? Are you jet-lagged
+        and need a coffee fix at 4am?
+        \n\nYou need a konbini, a convenience store that is open 24/7. Here you will find from
+        food and drinks, to first necessity articles.
+        \n\nSome known konibini chains are:
+        \n- Lawson
+        \n- 7-Eleven
+        \n- FamilyMart
+        \n- Daily</string>
+    <string name="info_transport_name">Suica Prepaid Train Card</string>
+    <string name="info_transport_description">The Suica card is a prepaid smart card that
+        allows you to use most public transport (metro, trains, buses, monorail) in Japan.
+        The card is debited for every trip or purchase you make when you touch the card
+        to the reader.
+        \n\nThe Suica card was created by JR East, but can also be used throughout Japan
+        on the other prepaid card networks like Pasmo.</string>
+    <string name="shop_potato_name">Super Potato</string>
+    <string name="shop_potato_description">Chain of retro video game stores filed with equipment and merchandise for games. It includes vintage video game arcades.</string>
+    <string name="shop_potato_address">1 Chome-11-2 Sotokanda, Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="shop_potato_phone">+81 3-5289-9933</string>
+    <string name="shop_potato_schedule">Mo-Fr 11:00–20:00. Sa-Su 10:00-20:00</string>
+    <string name="shop_amiami_name">Amiami</string>
+    <string name="shop_amiami_description">Hobbies supply shop, like figures and character goods.
+        Selling of second hand items too.</string>
+    <string name="shop_amiami_address">1 Chome-11-5 Sotokanda, , Chiyoda-ku, Tokyo 101-0021</string>
+    <string name="shop_amiami_phone">+81 3-5289-3373</string>
+    <string name="shop_amiami_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_nakano_name">Nakano Broadway</string>
+    <string name="shop_nakano_description">Shopping complex full of stores selling anime items and idol goods. It includes a dozen small Mandarake stores.</string>
+    <string name="shop_nakano_address">5-52-15 Nakano, Tokyo 164-0001</string>
+    <string name="shop_nakano_phone">+81 3-3388-7004</string>
+    <string name="shop_nakano_schedule">Mo-Su 12:00–20:00</string>
+    <string name="shop_kiddy_name">Kiddy Land</string>
+    <string name="shop_kiddy_description">Toy shop since 1950</string>
+    <string name="shop_kiddy_address">6-1-9 Jingumae, Shibuya, Tokyo 150-0001</string>
+    <string name="shop_kiddy_phone">+81 3-3409-3431</string>
+    <string name="shop_kiddy_schedule">Mo-Su 10:30–21:00</string>
+    <string name="shop_daiso_name">Daiso</string>
+    <string name="shop_daiso_description">Biggest 100 yen shop.</string>
+    <string name="shop_daiso_address">1chome 2−2 Kabukicho, Shinjuku, Tokyo 160-0021</string>
+    <string name="shop_daiso_phone">+81 3-5312-6656</string>
+    <string name="shop_daiso_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_mandarake_name">Mandarake</string>
+    <string name="shop_mandarake_description">Anime and manga second hand shop.</string>
+    <string name="shop_mandarake_address">3-11-12 Sotokanda, Chiyoda, Tokyo 101-0021</string>
+    <string name="shop_mandarake_phone">+81 3-3252-7007</string>
+    <string name="shop_mandarake_schedule">Mo-Su 12:00–21:00</string>
+    <string name="shop_kinokuniya_name">Kinokuniya Shinjuku Main Store</string>
+    <string name="shop_kinokuniya_description">Bookstore with 9 floors.</string>
+    <string name="shop_kinokuniya_address">3 Chome-17-7 Shinjuku, Tokyo 163-8636</string>
+    <string name="shop_kinokuniya_phone">+81 3-3354-0131</string>
+    <string name="shop_kinokuniya_schedule">Mo-Su 10:00–21:00</string>
+    <string name="shop_biccamera_name">Bic Camera</string>
+    <string name="shop_biccamera_description">Appliances Store.</string>
+    <string name="shop_biccamera_address">3 Chome-29-1 Shinjuku, Tokyo 160-0022</string>
+    <string name="shop_biccamera_phone">+81 3-3226-1111</string>
+    <string name="shop_biccamera_schedule">Mo-Su 10:00–22:00</string>
+    <string name="shop_donki_name">Don Quijote</string>
+    <string name="shop_donki_description">Discount Store</string>
+    <string name="shop_donki_address">1 Chome-12-6 Okubo, Shinjuku Tokyo 169-0072</string>
+    <string name="shop_donki_phone">+81 3-5292-7411</string>
+    <string name="shop_donki_schedule">Mo-Su 10:00–22:00</string>
+    <string name="sight_ghibli_name">Ghibli Museum</string>
+    <string name="sight_ghibli_description">Museum showcasing the work of the Japanese animation studio Studio Ghibli.</string>
+    <string name="sight_ghibli_address">1-1-83 Simorenjaku, Mitaka-shi Tokyo 181-0013</string>
+    <string name="sight_ghibli_phone">+81 570-055-777</string>
+    <string name="sight_ghibli_schedule">10:00–18:00. Tuesdays closed.</string>
+    <string name="sight_ghibli_price">110-330¥</string>
+    <string name="sight_imperial_name">Tokyo Imperial Palace</string>
+    <string name="sight_imperial_description">It is a large park-like area that contains buildings
+        including the main palace, the private residences of the Imperial Family, an archive,
+        museums and administrative offices.</string>
+    <string name="sight_imperial_address">1-1 Chiyoda, Tokyo 100-8111</string>
+    <string name="sight_imperial_phone">+81 3-3213-1111</string>
+    <string name="sight_imperial_schedule"><![CDATA[9:00–17:00. Mondays & Fridays closed.]]></string>
+    <string name="sight_price_free">Free</string>
+    <string name="sight_yasukuni_name">Yasukuni Shrine</string>
+    <string name="sight_yasukuni_description">Shinto shrine founded by Emperor Meiji. Commemorates
+        those who died in service of the Empire of Japan, which existed from the Meiji
+        Restoration of 1869 until the nation was renamed during the Allied occupation in 1947.</string>
+    <string name="sight_yasukuni_address">3-1-1 Kudankita, Chiyoda, Tokyo 102-8246</string>
+    <string name="sight_yasukuni_phone">+81 3-3261-8326</string>
+    <string name="sight_yasukuni_schedule">Always open</string>
+    <string name="sight_koishikawa_name">Koishikawa Korakuen Garden</string>
+    <string name="sight_koishikawa_description">Edo period clan garden, one of Tokyo\'s oldest
+        gardens. It was named Korakuen after a poem encouraging a ruler to enjoy pleasure only
+        after achieving happiness for his people.</string>
+    <string name="sight_koishikawa_address">1-6-6 Koraku, Bunkyo, Tokyo 112-0004</string>
+    <string name="sight_koishikawa_phone">+81 3-3811-3015</string>
+    <string name="sight_koishikawa_schedule">9:00-17:00</string>
+    <string name="sight_hie_shrine_name">Hie Shrine</string>
+    <string name="sight_hie_shrine_description">Shinto Shrine dedicated to the god Ōyamakui-no-kam.
+        It\'s located in Nagatcho, the Japanese seat of government, it sits amongst the sky
+        scrappers.</string>
+    <string name="sight_hie_shrine_address">2-10-5, Nagatachō Chiyoda, Tokyo 100-0014</string>
+    <string name="sight_hie_shrine_phone">+81 3-3581-2471</string>
+    <string name="sight_hie_shrine_schedule">5:00–18:00</string>
+    <string name="sight_hachikou_name">Hachikō statue</string>
+    <string name="sight_hachikou_description">Statue of the Akita dog Hachik\ō. He is remembered
+        for his remarkable loyalty to his owner which continued for more than nine years
+        after his owner\'s death.</string>
+    <string name="sight_hachikou_address">1 Dogenzaka, Shibuya Train Station, Shibuya 150-0043</string>
+    <string name="sight_hachikou_phone">+81 3-3378-1703</string>
+    <string name="sight_hachikou_schedule">Always open</string>
+    <string name="sight_government_building_name">Tokyo Metropolitan Government building</string>
+    <string name="sight_government_building_description">Headquarters of the Tokyo Metropolitan
+        Government. It has a free observatory on the 45th floor of both the
+        North and South Towers</string>
+    <string name="sight_government_building_address">1, 2-8-1 Nishi-Shinjuku, Shinjuku-ku, Tokyo</string>
+    <string name="sight_government_building_phone">+81 3-5321-1111</string>
+    <string name="sight_government_building_schedule">8:00-18:45. Weekends closed</string>
+</resources>
